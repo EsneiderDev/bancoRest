@@ -32,4 +32,6 @@ class ClienteModel extends Model
     ];
 
     protected $skipValidation = false;
+
+    // este es un comentario
 }
